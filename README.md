@@ -1,5 +1,4 @@
 This Is My Git Project.<br>
 It contains two Project.
-<br>
-Click on this to live this project:
+Click on this to live this project:<br>
 https://ankitchannekar-coding.github.io/Git-Projects/
